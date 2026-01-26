@@ -1,0 +1,11 @@
+{
+  "name": "bnbchain-mcp",
+  "version": "1.0.0",
+  "description": "BNB Chain MCP Server - BSC EVM and Greenfield Storage",
+  "transport": ["stdio", "http", "sse"],
+  "commands": {
+    "stdio": "node build/index.js",
+    "http": "node build/index.js --http",
+    "sse": "node build/index.js --sse"
+  }
+}
