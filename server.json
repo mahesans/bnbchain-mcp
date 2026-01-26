@@ -1,11 +1,24 @@
 {
-  "name": "bnbchain-mcp",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.nirholas/bnbchain-mcp",
+  "title": "BNB Chain MCP",
+  "description": "Developer tools for AI crypto agents - DeFi trading, DEX swaps, smart contracts, tokens, staking, bridging on BSC and opBNB",
+  "repository": {
+    "url": "https://github.com/nirholas/bnbchain-mcp",
+    "source": "github"
+  },
   "version": "1.0.0",
-  "description": "BNB Chain MCP Server - BSC EVM and Greenfield Storage",
-  "transport": ["stdio", "http", "sse"],
-  "commands": {
-    "stdio": "node build/index.js",
-    "http": "node build/index.js --http",
-    "sse": "node build/index.js --sse"
+  "icons": {
+    "light": "https://raw.githubusercontent.com/nirholas/g1t/d9a0ee206b8136472c04384905999369f198b3c9/milady.svg",
+    "dark": "https://raw.githubusercontent.com/nirholas/g1t/d9a0ee206b8136472c04384905999369f198b3c9/bg.svg"
+  },
+  "packages": {
+    "npm": "@nirholas/bnbchain-mcp"
+  },
+  "_meta": {
+    "io.modelcontextprotocol.registry/publisher-provided": {
+      "keywords": ["bnb", "bsc", "binance-smart-chain", "opbnb", "defi", "dex", "swap", "smart-contracts", "tokens", "staking", "bridge", "web3", "mcp", "ai"],
+      "category": "Blockchain"
+    }
   }
 }
